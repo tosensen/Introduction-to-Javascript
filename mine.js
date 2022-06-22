@@ -1,11 +1,11 @@
     var firstName= 'Oluwatosin';
     var middleName= 'Janet';
     var lastName= 'Adedapo';
-    var height= "5'6ft";
+    var height= "5'7ft";
     var country= "Nigeria";
 
     
-    const fullName= firstName + ' ' + middleName + ' ' + lastName;
+    const name= firstName + ' ' + middleName + ' ' + lastName;
  
     document.write('Name:' + ' '+ name + '<br/>');
     document.write('Height:' + ' '+ height + '<br/>');
